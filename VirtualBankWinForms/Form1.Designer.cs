@@ -189,6 +189,7 @@
             txt_balance.Name = "txt_balance";
             txt_balance.Size = new Size(239, 32);
             txt_balance.TabIndex = 6;
+            txt_balance.TextAlign = HorizontalAlignment.Center;
             txt_balance.TextChanged += txt_balance_TextChanged;
             // 
             // txt_welcome
