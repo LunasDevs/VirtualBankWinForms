@@ -14,4 +14,3 @@ namespace VirtualBankWinForms
             Application.Run(new Form1());
         }
     }
-}
